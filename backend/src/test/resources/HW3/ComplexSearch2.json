@@ -1,0 +1,43 @@
+{
+  "results": [
+    {
+      "id": 1697651,
+      "title": "Caesar Dressing",
+      "image": "https://spoonacular.com/recipeImages/1697651-312x231.jpg",
+      "imageType": "jpg"
+    },
+    {
+      "id": 646512,
+      "title": "Salmon Caesar Salad",
+      "image": "https://spoonacular.com/recipeImages/646512-312x231.jpg",
+      "imageType": "jpg"
+    },
+    {
+      "id": 660085,
+      "title": "Simple Caesar Salad",
+      "image": "https://spoonacular.com/recipeImages/660085-312x231.jpg",
+      "imageType": "jpg"
+    },
+    {
+      "id": 636682,
+      "title": "Chicken Caesar Salad",
+      "image": "https://spoonacular.com/recipeImages/636682-312x231.jpg",
+      "imageType": "jpg"
+    },
+    {
+      "id": 634345,
+      "title": "Barnaby's Caesar Salad",
+      "image": "https://spoonacular.com/recipeImages/634345-312x231.jpg",
+      "imageType": "jpg"
+    },
+    {
+      "id": 635161,
+      "title": "Black Truffle Caesar Salad",
+      "image": "https://spoonacular.com/recipeImages/635161-312x231.jpg",
+      "imageType": "jpg"
+    }
+  ],
+  "offset": 0,
+  "number": 10,
+  "totalResults": 6
+}
