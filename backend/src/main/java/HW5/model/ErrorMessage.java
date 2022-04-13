@@ -1,11 +1,11 @@
 package HW5.model;
 
-import lombok.Getter;
-import lombok.Setter;
+import lombok.*;
 
 @Getter
 @Setter
-public class ProductsResponse {
+@Data
+public class ErrorMessage {
     private Long status;
     private String message;
     private String timestamp;
