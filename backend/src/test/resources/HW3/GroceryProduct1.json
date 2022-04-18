@@ -1,0 +1,9 @@
+{
+  "cuisine": "Mediterranean",
+  "cuisines": [
+    "Mediterranean",
+    "European",
+    "Italian"
+  ],
+  "confidence": 0.0
+}
