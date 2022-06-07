@@ -1,0 +1,5 @@
+{
+  "status": 400,
+  "message": "Id должен быть null для новой сущности",
+  "timestamp": "${json-unit.ignore}"
+}
