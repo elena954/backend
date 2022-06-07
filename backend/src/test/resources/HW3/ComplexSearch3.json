@@ -1,0 +1,67 @@
+{
+  "results": [
+    {
+      "id": 645348,
+      "title": "Greek Side Salad",
+      "image": "https://spoonacular.com/recipeImages/645348-312x231.jpg",
+      "imageType": "jpg"
+    },
+    {
+      "id": 645354,
+      "title": "Greek Shrimp Orzo",
+      "image": "https://spoonacular.com/recipeImages/645354-312x231.jpg",
+      "imageType": "jpg"
+    },
+    {
+      "id": 645384,
+      "title": "Greek Yogurt Chicken Salad",
+      "image": "https://spoonacular.com/recipeImages/645384-312x231.jpg",
+      "imageType": "jpg"
+    },
+    {
+      "id": 645315,
+      "title": "Greek Inspired Spring Omelet",
+      "image": "https://spoonacular.com/recipeImages/645315-312x231.jpg",
+      "imageType": "jpg"
+    },
+    {
+      "id": 645365,
+      "title": "Greek Style Honey and Pistachio Cake",
+      "image": "https://spoonacular.com/recipeImages/645365-312x231.jpg",
+      "imageType": "jpg"
+    },
+    {
+      "id": 716408,
+      "title": "Greek-Style Baked Fish: Fresh, Simple, and Delicious",
+      "image": "https://spoonacular.com/recipeImages/716408-312x231.jpg",
+      "imageType": "jpg"
+    },
+    {
+      "id": 1096161,
+      "title": "Greek Chicken Sheet Pan Dinner with Green Beans and Feta",
+      "image": "https://spoonacular.com/recipeImages/1096161-312x231.jpg",
+      "imageType": "jpg"
+    },
+    {
+      "id": 645265,
+      "title": "Great Greek Salad",
+      "image": "https://spoonacular.com/recipeImages/645265-312x231.jpg",
+      "imageType": "jpg"
+    },
+    {
+      "id": 1098350,
+      "title": "Light Greek Lemon Chicken Orzo Soup",
+      "image": "https://spoonacular.com/recipeImages/1098350-312x231.jpg",
+      "imageType": "jpg"
+    },
+    {
+      "id": 649354,
+      "title": "Layered Greek Salad",
+      "image": "https://spoonacular.com/recipeImages/649354-312x231.jpg",
+      "imageType": "jpg"
+    }
+  ],
+  "offset": 0,
+  "number": 10,
+  "totalResults": 18
+}
